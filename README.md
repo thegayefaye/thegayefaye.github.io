@@ -7,12 +7,12 @@
 <style>
 
 body {
-  background: #f4f4f4;
+  background: #293b61;
   font-family: "Spectral";
   letter-spacing: 6px;
   padding: 60px;
-  color: #222;
-  border: 4px solid #ddd;
+  color: #becce8;
+  border: 2px solid #020c21;
   margin: 40px
 }
 
@@ -26,10 +26,12 @@ a {
   margin: 18px 0;
   text-decoration: none;
   color: #222;
+  transition: opacity .025s ease;
 }
 
 a:hover {
   opacity: 0.6;
+  letter-spacing: 7px;
 }
 
 </style>
