@@ -2,14 +2,18 @@
 <head>
 <title>the softer life</title>
 
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400&display=swap" rel="stylesheet">
+
 <style>
 
 body {
   background: #f4f4f4;
-  font-family: "EB Garamond", serif;
+  font-family: "Spectral";
   letter-spacing: 6px;
   padding: 60px;
   color: #222;
+  border: 1px solid #ddd;
+  margin: 40px
 }
 
 h1 {
