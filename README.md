@@ -12,7 +12,7 @@ body {
   letter-spacing: 6px;
   padding: 60px;
   color: #222;
-  border: 1px solid #ddd;
+  border: 4px solid #ddd;
   margin: 40px
 }
 
